@@ -19,7 +19,7 @@ export default function Index() {
   
             <Link href={"https://discord.com/oauth2/authorize?client_id=1237129865954590850"}>
               <a
-                className={
+       className={
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
                 }
               >
@@ -29,7 +29,7 @@ SnowBOT'u Davet et
   <div className="py-10"></div>
   <Link href={"https://top.gg/bot/774043716797071371/vote"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-                   SnowBOT'a oy verin</a>
+SnowBOT'a oy verin</a>
   </Link>
         </div>
 
