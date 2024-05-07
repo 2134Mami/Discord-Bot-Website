@@ -7,7 +7,6 @@ export default function Privacy() {
   <div className="animateHeader text-white text-opacity-40 mt-5">
         <p>⊳  SnowBOT botunu kullanmak için discord sunucunuza eklerken gerekli izinleri tanımlamanız gerekmektedir. <a className="text-white"></a></p>
         <div className="py-3"></div>
-        <div className="py-3"></div>
         <p>⊳ Her kullanıcı, zarar verme amacı taşımadığı sürece SnowBOT botunu dilediği gibi kullanabilir.</p>
         <div className="py-3"></div>
         <p>⊳ nowBOT kullanırken belirli komutları aynı anda kullanamazsınız.</p>   
