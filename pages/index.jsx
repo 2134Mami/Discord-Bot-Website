@@ -13,7 +13,7 @@ export default function Index() {
           SnowBOT
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       How about moderating your own server with SnowBOT? Spice up your server with SnowBOT, which has many features and is getting better every day.
+       SnowBOT ile kendi sunucunuzu yönetmeye ne dersiniz? Birçok özellik barındıran ve her geçen gün daha da yükselen SnowBOT ile sunucunuzu renklendirin.
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
