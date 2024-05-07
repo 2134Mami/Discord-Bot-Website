@@ -25,11 +25,7 @@ export default function Index() {
 SnowBOT'u Davet et
               </a>
             </Link>
-  <div className="py-10"></div>
-  <Link href={"https://top.gg/bot/774043716797071371/vote"}>
-  <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-SnowBOT'a oy verin</a>
-  </Link>
+
         </div>
 
         <div style={{ zIndex: '-1' }} className="hidden xl:block undrag pointer-events-none opacity-10 -left-[10vw] absolute top-[8vw] h-[35vw] flex-shrink-0 grayscale rotate-[1deg]">
@@ -87,7 +83,7 @@ SnowBOT'a oy verin</a>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://media.discordapp.net/attachments/907378577253744640/1176892776877666325/image.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">Best Your Bot</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with MusicMaker, the best and most up-to-date bot?</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">En iyi ve en güncel bot SnowBOT ile gelişmeye hazır mısınız?</p>
                 </div>
                 <img src="https://media.discordapp.net/attachments/907378577253744640/1176892776877666325/image.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
